@@ -1,4 +1,3 @@
-
 /* 
  * File:   main.cpp
  * Author: Hubert Majewski (23476002)
